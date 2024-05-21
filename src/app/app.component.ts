@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.less'
 })
 export class AppComponent {
-  title = 'ng-app';
+  title = 'My First Angular App!';
 }

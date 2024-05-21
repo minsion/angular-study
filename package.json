@@ -1,5 +1,5 @@
 {
-  "name": "ng-app",
+  "name": "angular-study",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:ng-app": "node dist/ng-app/server/server.mjs"
+    "serve:ssr:angular-study": "node dist/angular-study/server/server.mjs"
   },
   "private": true,
   "dependencies": {
